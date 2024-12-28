@@ -3,6 +3,8 @@ This repository contains a Python-based simulation of a sounding rocket's flight
 
 ## Overview  
 This project simulates the flight of a sounding rocket, modeling critical aspects such as thrust, drag, gravity, and air density variations. Using numerical integration techniques, the simulation tracks the rocket's altitude, velocity, and acceleration, producing visual plots to analyze flight performance.  
+![image](https://github.com/user-attachments/assets/c67a97d9-b664-4a8f-a5b6-626a1b6a2881)
+[Source: https://www.jpl.nasa.gov/infographics/what-is-a-sounding-rocket/]
 
 ## Features  
 - **Dynamic Forces:** Simulates thrust, drag (varying with altitude and velocity), and gravity.  
